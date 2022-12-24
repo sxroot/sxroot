@@ -1,6 +1,6 @@
 <div align="center">
 <br />
-<img src="https://cdn.discordapp.com/attachments/1001217281696743447/1054429231175704627/cat.gif"/>
+<img src="https://cdn.discordapp.com/attachments/1001217281696743447/1056004125776674846/hot.gif"/>
 <h1>Hey, I'm root 👋</h1></div>
 
 ---
